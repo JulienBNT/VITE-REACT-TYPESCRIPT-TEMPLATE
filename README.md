@@ -22,28 +22,28 @@
 
 ```
 vite-react-ts-template
-├── public/
-│   └── index.html
+├── public/                 — dossier pour fichiers statiques servis tels quels (images, favicons, etc.)
+│   └── index.html          — HTML public statique (fichiers accessibles sans build)
 ├── src/
-│   ├── assets/
-│   ├── callApi/
-│   ├── components/
-│   ├── constants/
-│   │   └── AppName.tsx
-│   ├── hooks/
-│   ├── pages/
+│   ├── assets/             — images, polices et autres ressources embarquées
+│   ├── callApi/            — fonctions / wrappers pour appels API et gestion des requêtes
+│   ├── components/         — composants UI réutilisables (boutons, en-têtes, cartes, ...)
+│   ├── constants/          — constantes globales (nom de l'application, clés, etc.)
+│   │   └── AppName.tsx 
+│   ├── hooks/              — hooks React personnalisés (useAuth, useFetch, ...)
+│   ├── pages/              — composants de page (routables)
 │   │   └── Home.tsx
-│   ├── utils/
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-├── index.html
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-├── postcss.config.js
-├── tailwind.config.ts
-└── README.md
+│   ├── utils/              — fonctions utilitaires pures (formatters, helpers)
+│   ├── App.tsx             — composant racine qui compose les routes et le layout
+│   ├── main.tsx            — point d'entrée qui monte l'application React dans le DOM
+│   └── index.css           — styles globaux (import Tailwind, resets et overrides)
+├── index.html              — point d'entrée HTML utilisé par Vite (template de build/dev)
+├── package.json            — métadonnées du projet, dépendances et scripts npm
+├── tsconfig.json           — configuration TypeScript (options du compilateur)
+├── vite.config.ts          — configuration du bundler Vite (plugins, alias, serveur)
+├── postcss.config.js       — configuration PostCSS (autoprefixer, plugins CSS)
+├── tailwind.config.ts      — configuration Tailwind CSS (thèmes, plugins, purge)
+└── README.md               — documentation et instructions d'utilisation du projet
 ```
 
 ## **Packages**
