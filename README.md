@@ -1,6 +1,23 @@
-# Vite React TypeScript Template
+<h1 align="center">Vite React TypeScript Template</h1>
+<p align="center">
+   <a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
+      <img alt="Vite" src="https://img.shields.io/badge/Vite-%234646ff?style=for-the-badge&logo=vite&logoColor=white" />
+   </a>
+   <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+      <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white" />
+   </a>
+   <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+   </a>
+   <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
+      <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+   </a>
+</p>
 
-Ce projet est un template minimal pour démarrer une application avec Vite, React et TypeScript. Il contient une structure de base, la configuration Vite/TypeScript, et des dépendances courantes (Tailwind, React Router, axios, etc.).
+<p align="center">
+   Template basé sur Vite • React • Tailwind CSS • TypeScript
+</p>
+Pour démarrer une application avec Vite, React et TypeScript contenant la structure de base, une configuration Vite/TypeScript, et des dépendances courantes (Tailwind, React Router, axios, etc.).
 
 ## **Structure Du Projet**
 
@@ -30,7 +47,7 @@ vite-react-ts-template
 └── README.md
 ```
 
-## **Packages Intégrées**
+## **Packages**
 
 - **Dépendances (runtime):**
   - `react`: ^19.0.0
