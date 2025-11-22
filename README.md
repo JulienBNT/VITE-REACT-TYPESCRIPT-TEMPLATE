@@ -80,6 +80,12 @@ vite-react-ts-template
 
 - Prérequis : Node.js (12+ recommandé, préférez la dernière LTS). Assurez-vous que `npm` est disponible.
 
+- Cloner le repo :
+
+```powershell
+git clone https://github.com/JulienBNT/VITE-REACT-TYPESCRIPT-TEMPLATE.git
+```
+
 - Installer les dépendances :
 
 ```powershell
