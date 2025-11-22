@@ -13,7 +13,7 @@
       <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    </a>
 </p>
-
+<img width="3840" height="2625" alt="template" src="https://github.com/user-attachments/assets/a6081ca1-9bee-41cc-9979-6dde2324c72f" />
 <p align="center">
    Template basé sur Vite • React • Tailwind CSS • TypeScript
 </p>
