@@ -17,7 +17,6 @@
 <p align="center">
    Template basé sur Vite • React • Tailwind CSS • TypeScript
 </p>
-Pour démarrer une application avec Vite, React et TypeScript contenant la structure de base, une configuration Vite/TypeScript, et des dépendances courantes (Tailwind, React Router, axios, etc.).
 
 ## **Structure Du Projet**
 
